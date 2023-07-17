@@ -1,0 +1,50 @@
+* {
+  font-family: "Manrope", sans-serif;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.nav_bar {
+  text-align: center;
+  background-color: #1475cc;
+  padding: 10px;
+  color: #ffff;
+  font-size: 20px;
+}
+input{
+  border:0px;
+  padding:10px;
+  margin:2px;
+  border-radius: 10px;
+  outline: none;
+}
+button{
+  border:0px;
+  padding:10px;
+  margin:2px;
+  border-radius: 10px;
+  outline: none;
+  background-color: #9265dd;
+  color:#ffff;
+}
+.contact_list {
+  background: #9dc1e2;
+  padding: 1rem;
+  margin: 5px;
+
+  border-radius: 5px;
+}
+
+.contact {
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
+.contact_adder {
+  background-color:#9dc1e2;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
